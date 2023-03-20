@@ -11,6 +11,6 @@ Follow theses steps to have it run on startup:
     #start auto wallpaper update  script
     python3 <path/to/folder>/walltext.py
 
-    Save this file in ~/Library/Startup/wallpaperscript.sh
-    Make it executable: chmod +x ~/Library/Startup
+    Save this file in ~/Library/Startup.cmd
+    Make it executable: chmod +x ~/Library/Startup.cmd
     Add this file in System Preferences > Accounts > Login items
