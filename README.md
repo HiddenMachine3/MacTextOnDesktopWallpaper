@@ -14,5 +14,5 @@ Follow theses steps to have it run on startup:
     Save this file in ~/Library/autoWallLaunch.cmd
     Make it executable: chmod +x ~/Library/autoWallLaunch.cmd
     Add this file in System Preferences > Accounts > Login items
-
+    Set Default application to open .cmd files as Terminal using Righ-Click > Get-Info > Open-With > Terminal
 
